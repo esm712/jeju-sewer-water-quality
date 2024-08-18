@@ -1,0 +1,11 @@
+PlaceCode
+MeasureTime
+Organic REAL
+Organic_Status
+Suspended REAL
+Suspended_Status
+TotalP REAL
+TotalP_Status
+TotalN REAL
+TotalN_Status
+CommDisorder
